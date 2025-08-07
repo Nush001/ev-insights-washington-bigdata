@@ -2,12 +2,6 @@
 
 # Electric Vehicle Insights: Washington State | Big Data & Predictive Analytics
 
-Final Project for ALY-6110: Data Management & Big Data  
-**Professor**: Daya Rudhramoorthi  
-**Date**: 06/30/2023  
-**Group Members**: Anoushka Hazari, Xuanyu Bao  
-
----
 
 ## 📌 Project Overview
 
